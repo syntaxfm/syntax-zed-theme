@@ -1,7 +1,7 @@
 {
-  "name": "Syntax",
-  "version": "0.0.1",
-  "authors": ["Scott Tolinski"],
-  "description": "A new take on a Syntax.fm theme. Yellows/Teals/Reds",
-  "repository": "https://github.com/syntaxfm/syntax-zed-theme"
+	"name": "Syntax",
+	"version": "0.0.2",
+	"authors": ["Scott Tolinski"],
+	"description": "A new take on a Syntax.fm theme. Yellows/Teals/Reds",
+	"repository": "https://github.com/syntaxfm/syntax-zed-theme"
 }
