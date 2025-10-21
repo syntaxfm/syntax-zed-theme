@@ -1,0 +1,7 @@
+id = "syntax"
+name = "Syntax"
+description = "The Official Syntax Podcast Theme"
+version = "0.0.2"
+schema_version = 1
+authors = ["stolinski <scott.tolinski@gmail.com>"]
+repository = "https://github.com/syntaxfm/syntax-zed-theme"
